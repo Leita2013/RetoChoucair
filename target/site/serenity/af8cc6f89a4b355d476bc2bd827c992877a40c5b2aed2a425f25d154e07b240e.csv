@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Test Choucair","Pedro adds the selected product to the shopping cart","PENDING","2022-04-05T11:35:20.193-05:00[America/Bogota]","0.0","0.11"
+"Test Choucair","standard user product selection","SUCCESS","2022-04-05T15:16:36.613-05:00[America/Bogota]","0.0","10.92"

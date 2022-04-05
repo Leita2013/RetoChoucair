@@ -20,7 +20,9 @@ public class Search implements Task {
     @Override
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(
-                Click.on(SearchItemPage.SELECT_ITEM)
+                Click.on(SearchItemPage.ADD_CART),
+                Click.on(SearchItemPage.SELECT_ITEM),
+                Click.on(SearchItemPage.CHECK_ITEM)
         );
 
     }

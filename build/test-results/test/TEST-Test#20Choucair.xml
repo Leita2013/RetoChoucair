@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Reto Choucair" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-04T21:31:13" hostname="CHMEPPF34L298" time="8.372">
+<testsuite name="Test Choucair" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-05T20:16:36" hostname="CHMEPPF34L298" time="11.629">
   <properties/>
-  <testcase name="standard user product selection" classname="Reto Choucair" time="8.372"/>
+  <testcase name="standard user product selection" classname="Test Choucair" time="11.629"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[abr 04, 2022 4:31:14 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+  <system-err><![CDATA[abr 05, 2022 3:16:37 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --incognito,--enable-automa..., goog:chromeOptions: {args: [--incognito, --enable-automation, --no-sandbox, --disable-gpu-sandbox], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
-Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 27214
+Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 34729
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-abr 04, 2022 4:31:17 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+abr 05, 2022 3:16:39 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: W3C
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
